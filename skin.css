@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: aqua;
+    font-family: "press Start 2p";
+    text-align: center;
+    font-size: 50px;
+}
+
+.instruction{
+    color:  white;
+    text-align: center;
+    font-size: 25px;
+    margin-left: -400;
+}
+
+.textbox{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.button{
+    text-align: center;
+
+}
+
+h5{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+
+h9{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 300;
+}
+
+.enter{
+    text-align: center;
+}
+
+/*D☼*/
